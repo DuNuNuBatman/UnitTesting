@@ -8,3 +8,8 @@ When completing think of your SOLID principles. This is going to focus on the "D
 You can use any Mock framework that you are familiar with to bypass the external dependency. In this project I used Moq https://github.com/moq/moq4
 
 If you have any questions, go ahead and reach out. jdale@corhio.org, or you can hit me up on teams to do a video call.
+
+Here's some resources I'd take a quick look at:
+Overall Unit Testing: https://docs.educationsmediagroup.com/unit-testing-csharp/
+Dependency Inversion: https://docs.educationsmediagroup.com/unit-testing-csharp/unit-testing/dealing-with-dependencies
+Everything Martin Fowler writes is great: https://martinfowler.com/testing/
